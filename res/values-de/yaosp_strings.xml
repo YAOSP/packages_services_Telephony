@@ -47,4 +47,8 @@
     <string name="use_intrusive_call_title">Vollbild Anrufanzeige</string>
     <string name="use_intrusive_call_summary">Eingehende Anrufe in Vollbild anzeigen selbst bei nicht gesperrtem Bildschirm</string>
 
+    <!-- Title for the option managing whether or not to show data connection type when roaming. -->
+    <string name="roaming_dataconnection_title">Verbindungsart beim Daten-Roaming anzeigen</string>
+    <string name="roaming_dataconnection_summary">Beim Daten-Roaming die Datenverbindungsart (LTE, 3G, H...) in der Statusleiste / QS Kachel anzeigen wenn Daten verbunden sind (statt nur "R")</string>
+
 </resources>
