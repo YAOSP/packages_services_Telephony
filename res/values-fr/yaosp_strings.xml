@@ -47,4 +47,8 @@
     <string name="use_intrusive_call_title">Notification d\'appel en plein écran</string>
     <string name="use_intrusive_call_summary">Notifier les appels entrant en plein écran même si l\'appareil n\'est pas vérouillé</string>
 
+    <!-- Title for the option managing whether or not to show data connection type when roaming. -->
+    <string name="roaming_dataconnection_title">Afficher type de connection de données an itinérance</string>
+    <string name="roaming_dataconnection_summary">Afficher le type de connection de données (LTE, 3G, H...) dans l\'icône de la barre d\'état / tuile QS lorsque en itinérance les données sont connectées (au lieu de simplement "R")</string>
+
 </resources>
